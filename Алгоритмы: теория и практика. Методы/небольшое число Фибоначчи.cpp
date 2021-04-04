@@ -1,3 +1,5 @@
+/*Дано целое число 1≤n≤40, необходимо вычислить n-е число Фибоначчи */
+
 //#include <cassert>
 //#include <iostream>
 //#include <unordered_map>
